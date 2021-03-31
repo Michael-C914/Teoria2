@@ -11,3 +11,63 @@ code {
   font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
     monospace;
 }
+
+.primerchat img {
+	border-radius: 50%;
+	height: 80px;
+	padding: 25px
+}
+
+.Menu {
+	background: #278660;
+	padding: 10px;
+	display: grid;
+	grid-template-columns: 1fr 0fr;
+	border: 1px solid;
+}
+.Inicio {
+	color: white;
+}
+.Inicio h3 {
+	color: white;
+	font-size: 25px;
+}
+.bordes {
+	display: grid;
+	grid-template-columns: 0fr 3fr;
+	border: 1px solid;
+}
+.bordes1 {
+	display: grid;
+	grid-template-columns: 0fr 1fr;
+	border: 1px solid;
+}
+.bordes2 {
+	display: grid;
+	grid-template-columns: 0fr 1fr;
+	border: 1px solid;
+}
+.bordes3 {
+	display: grid;
+	grid-template-columns: 0fr 1fr;
+	border: 1px solid;
+}
+.bordes4 {
+	display: grid;
+	grid-template-columns: 0fr 1fr;
+	border: 1px solid;
+}
+.bordes5 {
+	display: grid;
+	grid-template-columns: 0fr 1fr;
+	border: 1px solid;
+}
+.Icono {
+	color: white;
+	grid-template-columns: 1fr 1fr;
+	padding: 35px;
+}
+.Icono2 {
+	color: white;
+	padding: 0px;
+}
